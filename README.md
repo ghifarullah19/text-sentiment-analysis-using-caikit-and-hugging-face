@@ -16,12 +16,24 @@ Name     : Arifian Saputra
 ## Tech Stack:
 - Python
 
-## Documentation
-1. Install requirements <br>
+## Prerequisites:
+1. Linux/MacOS x86_64
+2. Caikit (v0.9.2)
+3. Python (v3.8+)
+4. pip (v23.0+)
+
+## Documentation:
+1. Install virtualenv <br>
+   <code>pip install --user virtualenv</code>
+2. Create virtualenv <br>
+   <code>virtualenv -p python3 env</code>
+3. Activate virtualenv <br>
+   <code>source env/bin/activate</code>
+4. Install requirements <br>
    <code>pip install -r requirements.txt</code>
-2. Start runtime <br>
+5. Start runtime <br>
    <code>python start_runtime.py</code>
-3. Start client <br>
+6. Start client <br>
    <code>python client.py</code>
 
 ## Credits:
