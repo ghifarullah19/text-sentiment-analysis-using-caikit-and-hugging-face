@@ -17,8 +17,12 @@ Name     : Arifian Saputra
 - Python
 
 ## Documentation
-1. Install requirements
+1. Install requirements <br>
    <code>pip install -r requirements.txt</code>
+2. Start runtime <br>
+   <code>python start_runtime.py</code>
+3. Start client <br>
+   <code>python client.py</code>
 
 ## Credits:
 - Parents
