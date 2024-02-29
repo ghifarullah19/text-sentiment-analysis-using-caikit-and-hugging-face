@@ -1,0 +1,6 @@
+caikit[all]==0.9.2
+
+# Only needed for Hugging Face
+scipy
+torch
+transformers~=4.27.2
